@@ -9,4 +9,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1075-project-employees-i](https://github.com/Gundekari-Srinidhi/SEPTEMBER-2026/tree/master/1075-project-employees-i) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/Gundekari-Srinidhi/SEPTEMBER-2026/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/Gundekari-Srinidhi/SEPTEMBER-2026/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
+| [1965-employees-with-missing-information](https://github.com/Gundekari-Srinidhi/SEPTEMBER-2026/tree/master/1965-employees-with-missing-information) |
 <!---LeetCode Topics End-->

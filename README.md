@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/Gundekari-Srinidhi/SEPTEMBER-2026/tree/master/0175-combine-two-tables) |
+| [0180-consecutive-numbers](https://github.com/Gundekari-Srinidhi/SEPTEMBER-2026/tree/master/0180-consecutive-numbers) |
 | [0183-customers-who-never-order](https://github.com/Gundekari-Srinidhi/SEPTEMBER-2026/tree/master/0183-customers-who-never-order) |
 | [1068-product-sales-analysis-i](https://github.com/Gundekari-Srinidhi/SEPTEMBER-2026/tree/master/1068-product-sales-analysis-i) |
 | [1075-project-employees-i](https://github.com/Gundekari-Srinidhi/SEPTEMBER-2026/tree/master/1075-project-employees-i) |
